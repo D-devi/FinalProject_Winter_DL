@@ -3,7 +3,7 @@
 For the binary classification model, refer to the folowing noteboks and README files :
 - BioClipBERT_BinaryModel.ipyb
 - Dense121BiLSTM_BinaryModel.ipyb
-- README_open_model.txt
+- README_binary_model.txt
 
 For the closed model, refer to the following notebooks and README files :
 - VitBlip_Closed_BinaryModel.ipyb
