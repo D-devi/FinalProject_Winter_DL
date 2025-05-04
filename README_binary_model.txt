@@ -1,7 +1,7 @@
 # VQA-RAD Multimodal Pipeline README
 
 ## Overview
-This project is a multimodal Visual Question Answering (VQA) pipeline built on the VQA-RAD dataset. It uses pretrained CLIP for image encoding and BERT for question encoding, with a co-attention mechanism to fuse modalities. The goal is to predict short medical answers (from a fixed vocabulary) to radiology-related questions based on image-text pairs.
+This project is a multimodal Visual Question Answering (VQA) pipeline built on the VQA-RAD dataset. It uses pretrained CLIP or DenseNet for image encoding and BERT or BiLSTM for question encoding, with a co-attention mechanism to fuse modalities. The goal is to predict short medical answers (from a fixed vocabulary) to radiology-related questions based on image-text pairs.
 
 
 
